@@ -34,3 +34,12 @@ Block Quote
 
 This is a link
 please click [here](https://google.com)
+
+
+This is a Table  
+| Name | Age | Gender  
+| :- | :- | :- |  
+| Leo | 30 | Male |
+| Cleopatra | 18 | Female |
+
+
