@@ -43,3 +43,21 @@ This is a Table
 | Cleopatra | 18 | Female |
 
 
+This is a horizontal line
+---
+
+
+This is a Checkbox
+- [x] Learn DevOps
+- [ ] Write Codes
+- [ ] Build a Project
+(Insert x in the square brackets to tick it)
+
+
+# Table of Contents  
+- Week 1
+  - Content 1
+  - Content 2
+    - Content 2.1
+    - Content 2.2
+  - Content 3
